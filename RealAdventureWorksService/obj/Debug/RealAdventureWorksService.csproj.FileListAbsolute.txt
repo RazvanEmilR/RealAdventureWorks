@@ -1,0 +1,14 @@
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\bin\Debug\RealAdventureWorksService.dll.config
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\bin\Debug\RealAdventureWorksService.dll
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\bin\Debug\RealAdventureWorksService.pdb
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\obj\Debug\RealAdventureWorksService.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\obj\Debug\RealAdventureWorksService.dll
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\obj\Debug\RealAdventureWorksService.pdb
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\obj\Debug\RealAdventureWorksService.csprojAssemblyReference.cache
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\bin\Debug\RealAdventureWorksEntities.dll
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\bin\Debug\RealAdventureWorksLogic.dll
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\bin\Debug\RealAdventureWorksEntities.pdb
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\bin\Debug\RealAdventureWorksLogic.pdb
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\obj\Debug\RealAdventureWorksService.csproj.CopyComplete
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\bin\Debug\RealAdventureWorksDAL.dll
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksService\bin\Debug\RealAdventureWorksDAL.pdb

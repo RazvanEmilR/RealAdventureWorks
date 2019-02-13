@@ -1,0 +1,9 @@
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksDAL\bin\Debug\RealAdventureWorksDAL.dll
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksDAL\bin\Debug\RealAdventureWorksDAL.pdb
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksDAL\bin\Debug\RealAdventureWorksEntities.dll
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksDAL\bin\Debug\RealAdventureWorksEntities.pdb
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksDAL\obj\Debug\RealAdventureWorksDAL.csprojAssemblyReference.cache
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksDAL\obj\Debug\RealAdventureWorksDAL.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksDAL\obj\Debug\RealAdventureWorksDAL.csproj.CopyComplete
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksDAL\obj\Debug\RealAdventureWorksDAL.dll
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksDAL\obj\Debug\RealAdventureWorksDAL.pdb

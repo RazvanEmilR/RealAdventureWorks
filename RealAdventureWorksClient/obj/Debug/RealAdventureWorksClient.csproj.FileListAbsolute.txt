@@ -1,0 +1,6 @@
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksClient\bin\Debug\RealAdventureWorksClient.exe.config
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksClient\bin\Debug\RealAdventureWorksClient.exe
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksClient\bin\Debug\RealAdventureWorksClient.pdb
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksClient\obj\Debug\RealAdventureWorksClient.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksClient\obj\Debug\RealAdventureWorksClient.exe
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksClient\obj\Debug\RealAdventureWorksClient.pdb

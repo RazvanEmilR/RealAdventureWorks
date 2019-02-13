@@ -1,0 +1,5 @@
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksEntities\bin\Debug\RealAdventureWorksEntities.dll
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksEntities\bin\Debug\RealAdventureWorksEntities.pdb
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksEntities\obj\Debug\RealAdventureWorksEntities.csproj.CoreCompileInputs.cache
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksEntities\obj\Debug\RealAdventureWorksEntities.dll
+C:\Users\Razvan Rapcea\source\repos\RealAdventureWorks\RealAdventureWorksEntities\obj\Debug\RealAdventureWorksEntities.pdb
